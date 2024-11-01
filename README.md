@@ -1,1 +1,1 @@
-# Otus-java-professional
+# Репозиторий для домашних работ по курсу Otus Java Professional
